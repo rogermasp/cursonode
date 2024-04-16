@@ -5,3 +5,8 @@
 
 //Sentenças
 console.log("Sintaxe básica");
+
+//blocos
+{
+    console.log("Sintaxe básica em bloco de códigos");
+}
