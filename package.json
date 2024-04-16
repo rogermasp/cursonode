@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "cursonode",
+  "description": "curso javascript avançado com professor jose de assis",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "npm": "^10.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "teste2": "clear && echo 'Hello Script'",
+    "dev": "nodemon fundamentos/hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogermasp/cursonode.git"
+  },
+  "keywords": [
+    "node",
+    "javascrip"
+  ],
+  "author": "Aluno Roger Maia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogermasp/cursonode/issues"
+  },
+  "homepage": "https://github.com/rogermasp/cursonode#readme"
+}
