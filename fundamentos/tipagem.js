@@ -32,7 +32,7 @@ console.log(NaN === NaN)
 console.log(0.5 + 0.5)
 console.log(0.1 + 0.2)
 console.log(0.1 + 0.7)
-console.log ("________________________________ booleanos")
+console.log ("________________________________booleanos")
 let sw = true
 console.log(`Chave: ${sw}`)
 let lamp = !1
