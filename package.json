@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
   },
   "name": "cursonode",
   "description": "curso javascript avançado com professor jose de assis",

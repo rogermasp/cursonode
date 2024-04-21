@@ -39,3 +39,8 @@ let lamp = !1
 console.log(typeof(lamp))
 console.log(`Lâmpada: ${lamp}`)
 console.log(sw && "Lâmpada acesa")
+let nota1 = 10
+let nota2 = 6
+let nota3 = 8
+let media = (nota1+nota2+nota3)/5
+console.log(`MÉDIA : ${media} pontos`)
