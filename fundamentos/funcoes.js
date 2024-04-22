@@ -4,27 +4,27 @@
  */
 
 function hello() {
-    console.log("Hello Function")
+    console.log("Hello1 Function")
 }
 
 hello()
 console.log(typeof hello)
 
 const hello2 = function() {
-    console.log("Hello Function Assigned")
+    console.log("Hello2 Function Assigned")
 }
 
 hello2()
 console.log(typeof hello2)
 
 const hello3 = () => {
-    console.log("Hello Arrow Function Assigned")
+    console.log("Hello3 Arrow Function Assigned")
 }
 
 hello3()
 console.log(typeof hello3)
 
-const hello4 = _ => console.log("Hello Arrow Function Assigned Simplified")
+const hello4 = _ => console.log("Hello4 Arrow Function Assigned Simplified")
 
 hello4()
 console.log(typeof hello4)
